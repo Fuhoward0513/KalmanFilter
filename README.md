@@ -9,7 +9,8 @@
 ## :star: Result
 ### 1. Kalman Filter Based on tracking position:
 #### a. Parameters:
-![](https://i.imgur.com/prupiCk.png)
+![](https://i.imgur.com/GDJaNl6.png)
+
 
 #### b. Result of tracking position
 ![](https://i.imgur.com/Z7sWBz1.png)
@@ -18,7 +19,9 @@
 
 ### 2. Kalman Filter Based on tracking velocity:
 #### a. Parameters:
-![](https://i.imgur.com/bh2s0eB.png)
+![](https://i.imgur.com/654buCw.png)
+
+
 
 #### b. Result of tracking velocity:
 ![](https://i.imgur.com/6JqAPBH.png)
@@ -26,9 +29,11 @@
 
 ### 3. Kalman Filter Based on tracking accelaration:
 #### a. Parameters:
-![](https://i.imgur.com/UDfGNDw.png)
+![](https://i.imgur.com/Wbp9Hkn.png)
 
-![](https://i.imgur.com/OPcUtkL.png)
+![](https://i.imgur.com/if6qJFH.png)
+
+
 
 #### b. Result of tracking acceleration:
 ![](https://i.imgur.com/6moGDCm.png)
